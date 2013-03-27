@@ -9,6 +9,6 @@
 		<property name="jdbcDriver" value="com.mysql.jdbc.Driver" />
 	    <property name="jdbcUrl" value="jdbc:mysql:///activiti?createDatabaseIfNotExist=true" />
 	    <property name="jdbcUsername" value="root" />
-	    <property name="jdbcPassword" value="041129" />
+	    <property name="jdbcPassword" value="" />
 	</bean>
 </beans>
